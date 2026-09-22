@@ -12,6 +12,7 @@ func main() {
 	var numberOfSubjects int
 
 	fmt.Println("===== Student Result Processing System =====")
+	fmt.Println("Welcome to the Application")
 
 	fmt.Print("Enter Student Name: ")
 	fmt.Scanln(&student.Name)
